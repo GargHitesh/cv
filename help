@@ -1,0 +1,11 @@
+<HR> ATTRIBUTES
+1. align
+Sets the alignment of the rule on the page. If no value is specified, the default value is left.
+2. color
+Sets the color of the rule through color name or hexadecimal value.
+3. noshade
+Sets the rule to have no shading.
+4. size
+Sets the height, in pixels, of the rule.
+5. width
+Sets the length of the rule on the page through a pixel or percentage value.
